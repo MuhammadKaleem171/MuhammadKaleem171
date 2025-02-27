@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a seasoned software engineer with over three years of dedicated experience in crafting robust applications with a focus on the MERN (MongoDB, Express.js, React.js, Node.js) stack and React Native. <br>My expertise extends across various technologies, including React, Next.js, and Node.js.<br/>
-In an ever-evolving landscape of technology, I remain committed to continuous learning and self-improvement. Whether it's exploring emerging frameworks, mastering new programming languages, or staying updated on industry best practices, I strive to stay at the forefront of technological advancements and trends.
+Passionate Software Engineer with over three years of experience building scalable and robust applications, specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js) and React Native. Proficient in React, Next.js, and Node.js, I thrive in dynamic environments that foster innovation. Committed to continuous learning, I actively explore emerging frameworks, master new technologies, and stay ahead of industry trends to deliver cutting-edge solutions.
 
 
 
